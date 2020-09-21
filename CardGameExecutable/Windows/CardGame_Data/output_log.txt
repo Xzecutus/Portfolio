@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon Pro 555 (ID=0x67ef)
+    Vendor:   ATI
+    VRAM:     1993 MB
+    Driver:   26.20.13001.53002
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in 11.309 seconds
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Xzecutus\codeProjects\Portfolio\CardGameAndMenus\Windows\CardGame_Data\Managed\System.dll (this message is harmless)
+desktop: 2880x1800 60Hz; virtual: 2880x1800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.945200 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1dcc -> priority: 1 
+  Thread -> id: 2670 -> priority: 1 
+  Thread -> id: 2a94 -> priority: 1 
+  Thread -> id: 2264 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.545600 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.291700 ms (FindLiveObjects: 0.029300 ms CreateObjectMapping: 0.013600 ms MarkObjects: 0.208100 ms  DeleteObjects: 0.039600 ms)
+
